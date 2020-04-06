@@ -3,7 +3,9 @@
 
 # 2、创建虚拟环境
 #### 创建一个新的虚拟环境
-`conda create -n env_name python=version`
+(```)
+conda create -n env_name python=version
+(```)
 #### 查看已经安装的虚拟环境
 `conda env list`
 #### 进入虚拟环境
